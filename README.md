@@ -13,7 +13,7 @@ TODO
 # TODO
 
 # For sRGB
-python main.py --data_test MyImage --scale 2 --model RCAN --n_resgroups 10 --n_resblocks 20 --n_feats 64 --pre_train ../model/RCAN_BIX2.pt --test_only --save_results --chop --save 'RCAN' --testpath ../LR/LRBI --testset Set5
+python test_srgb.py
 ```
 
 ## Demoireing
