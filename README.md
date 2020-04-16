@@ -1,7 +1,7 @@
 # MMDM: Multi-frame and Multi-scale for Image Demoiréing
 This repository is for MMDM introduced in the following paper
 
-Shuai Liu, Chenghua Li, Nan Nan, Ziyao Zong, Ruixia Song, "MMDM: Multi-frame and Multi-scale for Image Demoiréing", ECCV 2018.
+Shuai Liu, Chenghua Li, Nan Nan, Ziyao Zong, Ruixia Song, "MMDM: Multi-frame and Multi-scale for Image Demoiréing", CVPRW 2020.
 
 ## Real Image Denoising
 ### Train
