@@ -8,26 +8,26 @@ Shuai Liu, Chenghua Li, Nan Nan, Ziyao Zong, Ruixia Song, "MMDM: Multi-frame and
 TODO
 
 ### Test
-    ```bash
-    # For rawRGB
-    # TODO
-    
-    # For sRGB
-    python main.py --data_test MyImage --scale 2 --model RCAN --n_resgroups 10 --n_resblocks 20 --n_feats 64 --pre_train ../model/RCAN_BIX2.pt --test_only --save_results --chop --save 'RCAN' --testpath ../LR/LRBI --testset Set5
-    ```
+```
+# For rawRGB
+# TODO
+
+# For sRGB
+python main.py --data_test MyImage --scale 2 --model RCAN --n_resgroups 10 --n_resblocks 20 --n_feats 64 --pre_train ../model/RCAN_BIX2.pt --test_only --save_results --chop --save 'RCAN' --testpath ../LR/LRBI --testset Set5
+```
 
 ## Demoireing
 ### Train
 TODO
 
 ### Test
-    ```bash
-    # For single frame input.
-    # TODO
-    
-    # For multi-frame inputs (Burst)
-    TODO
-    ```
+```
+# For single frame input.
+# TODO
+
+# For multi-frame inputs (Burst)
+TODO
+```
     
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
